@@ -1,0 +1,15 @@
+﻿he Justice Department has withdrawn from its legal dispute with Apple over a locked iPhone in New York, the government said in a court filing made late Friday. The department said the FBI no longer needs the company's help unlocking the phone, involved in a drug-trafficking case, as it has obtained the passcode from someone else.
+
+The withdrawal is the second high-profile case the FBI has stepped away from in recent weeks after finding alternative means to unlocking a phone without Apple's help. Last month, the agency ended a similar case in San Bernardino after paying a third party for a way to hack into a phone. Recently, Director James Comey said the FBI paid more than $1 million for the help.
+
+FBI LEARNED THE PASSCODE FROM SOMEONE ELSE
+
+Today's filing was once again made suddenly, with a US attorney saying the government had learned the passcode from "an individual" late last night. (It's not immediately clear from the filing who that person is, although the Wall Street Journal reports that it was the suspect himself, Jun Feng, who pleaded guilty last year.)
+
+The agency said as recently as April 8th that it would continue its fight with Apple in New York, despite what happened in the San Bernardino case.  Apple, responding to the government last week, said that the FBI still had not exhausted its options to unlock the phone in the New York case, and thus could not demand assistance from the company.
+
+The New York case was widely seen as the second major front, after San Bernardino, in a heated battle between Apple and the FBI over consumer privacy and law enforcement power.
+
+The government's complete letter to the court follows:
+
+The government respectfully submits this letter to update the Court and the parties. Yesterday evening, an individual provided the passcode to the iPhone at issue in this case. Late last night, the government used that passcode by hand and gained access to the iPhone. Accordingly, the government no longer needs Apple's assistance to unlock the iPhone, and withdraws its application.
